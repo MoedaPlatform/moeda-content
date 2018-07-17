@@ -111,4 +111,4 @@ Moeda é mais que uma moeda, é um ecossistema. Ter o uso de nossas tecnologias 
 
 ## Como posso conhecer mais sobre os aspectos técnicos da Moeda?
 
-Moeda tem um relatório (em Inglês) com mais detalhes e você pode conferir aqui.
+Moeda tem um relatório com mais detalhes (whitepaper) que será disponibilizado em breve.
