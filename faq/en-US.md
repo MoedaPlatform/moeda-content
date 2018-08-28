@@ -3,210 +3,130 @@
 
 ## What is Moeda?
 
-Moeda is the first company of its kind within its field. It was
-launched in 2017 during a UN’s hackathon and it sought to address UN’s 17
-Sustainable Development Goals. Moeda’s business model is based on a
-holistic approach for fostering sustainable development growth, and is made
-up of three primary components: a proprietary digital token (MDA), a
-peer-to-peer transfer application, and driving local businesses.
+Moeda was launched in 2017 at a United Nations “hackathon” in order to address the 17 UN Sustainable Development Goals. We selected the Seed Projects and facilitate access to financing for entrepreneurs with impact projects who have traditionally found it difficult to access credit through the traditional banking system. They can thus grow and allow their communities to develop. Through blockchain technology and our proprietary digital tokens (MDA, MDABRL), people around the world can promptly and transparently invest in the projects, all the while participating in sustainable growth. Everyone wins.
 
+## What is Moeda's mission?
 
-## What is Moeda’s mission?
+Moeda's mission is to promote a fairer and more impactful economy by connecting investors directly to entrepreneurs and promoting the UN Sustainable Development Goals. On one hand, we eliminate bureaucratic obstacles and facilitate financing using more realistic rates with better conditions for entrepreneurs who have limited access to traditional banking services. The projects we selected, known as Seed Projects, also receive support in technical areas, business and sustainability through the Moeda Seed Program. On the other hand, we have adopted the transparency of blockchain for investors from around the world to invest directly in Seed Projects with the flexibility of digital tokens, all within a new relationship of trust where people invest in people.
 
-To promote the economic well-being of excluded communities in a
-sustainable way, making the investment process easier by eliminating the
-common financial obstacles that small businesses face.
+## What is Moeda's story?
 
+Check out the [video](https://www.youtube.com/watch?v=Kk_Y_Ra3p9o) in which Moeda's CEO talks about our history and what motivates us.
 
-## What is Moeda’s story?
+Moeda was inspired by the idea that blockchain technology offers more confidence, efficiency, transparency and access to financing for those who have no means of obtaining it through the traditional system. The company emerged from the United Nations SDG Hackathon and conducted a successful crowdfunding campaign in 2017. In early 2018, Moeda began to select and support 18 projects involving family farming cooperatives in Brazil. Through this pilot, we understand our work, we have established processes and we synthesize learning, in addition to closing deals with key partnerships that will be applied when we open our investment portfolio to hundreds of Seed Projects in 2019. Upcoming steps include the launch of our Currency Seeds App, which will facilitate investing, keep track of the Seed Projects and will be used as a tool for the entrepreneurs we support. Starting in 2019, Moeda will begin an expansion to other Latin American countries.
 
-Moeda sprouted from an idea that blockchain technology offers
-more trust, efficiency, transparency and access to financing for those who
-don't currently have the means to acquire it. The company came to fruition
-after the idea won the United Nations (UN) SDG hackathon and successfully
-carried out a crowdfunding campaign in 2017. As of early 2018, Moeda has
-funded 18 projects by local entrepreneurs and cooperatives in rural areas
-within Brazil. The team is now hard at work on a mobile application, which
-will boost investments in current and future projects and serve as a
-banking tool for business owners who are impacted by Moeda.
+## Where is Moeda?
 
+Moeda is a global company with headquarters in New York, in the United States and in Brasilia, Brazil's capital, along with a presence in China.
 
-## Where is Moeda based?
+## How does Moeda improve the traditional model of impact investments using micro-lending?
 
-Moeda is a global company with headquarters in New York City in
-the U.S. and in the Brazilian capital of Brasilia.
+Moeda offers unprecedented transparency for both investors and those who benefit from micro-lending. Investors can track the flow of capital and the progress of all projects financed on our website, and shortly through the Moeda Seeds App. The Moeda platform also allows all entrepreneurs to have their own digital identity, enabling them, often for the first time, to have access to means of achieving viable financial records and to acquire the credit needed to boost their business and support their community. The use of blockchain technology ensures transparency throughout all our processes. In addition, the proprietary digital tokens (MDA, MDABRL) allow investors around the world to support our Seed Projects with flexibility. We’ve placed the Sustainable Development Goals in all Seed Projects and are working on new ways to measure each of their achievements and report their progress to the public. Through the combination of local capacity building and technological innovation, we are building a new sustainable ecosystem for impact investments.
 
+## What has Moeda done since its launch?
 
-## How does Moeda refine the traditional investment impact of the micro-loan model?
+Since its launch in April 2017, pilot projects have been organized and launched that will form the basis for our expansion, along with the preparation for releasing the Moeda Seeds App. As of December 2018, new investments will arrive on the site and the app, while hundreds of new Seed Projects are being prepared for investing. At the same time, we will continue participating in public events, government activities and entrepreneurs, as well as increase our team and partnerships. Here are some of the team's major milestones thus far:
+- **June 2017**: Moeda opens holding in Uruguay and becomes the first blockchain company in a Free Trade Zone
 
-Moeda provides unprecedented transparency for both the
-beneficiaries and investors of micro-financing. Investors can track the
-flow of capital along with the progress of all funded projects. Moeda's
-platform also allows all female entrepreneurs to have their own digital
-identity, enabling them - often for the first time –access and the means to
-make viable financial records and acquire the credit needed to drive their
-business and support their community.
+- **August 2017**: Moeda's ICO (Initial Coin Offering) raises US$ 20 million in crypto-currencies (BTC/ETH). A total of 20 million MDA tokens were issued.
 
-The company also offers each of its female entrepreneurs local access to
-financial education, suppliers, contacts and the market itself. Through a
-combination of local capacity building and technological innovation, we are
-building a new sustainable ecosystem for investments that have an impact.
+- **September 2017**: Moeda issues tokens (MDA) for investors and agents.
 
+- **September 2017**: Moeda’s CEO joins the Parliamentary Special Committee on the legislation of virtual currency to define the future of crypto-currency in Brazil.
 
-## What's Moeda been doing since its launch?
+- **September 2017**: The Brazilian Central Bank acknowledges our business model on a live national broadcast.
+September 2017 The Moeda Token lands on the Binance list.
 
-Moeda has been quite busy since it kicked off in April 2017. Some of the
-team's major milestones so far have been:
-- **August 2017**: Moeda conducted an ICO where US$ 20 million in cryptography (BTC/ETH) was raised. A total of 20,000,000 MDA tokens were issued.
-- **September 2017**: Moeda issues tokens for investors and agents.
-- **January 2017**: Moeda announces funding for its first round of Seed Projects in rural Brazil.
+- **October 2017**: The CEO presents Moeda at the United Nations General Assembly, SDG Impact Zones.
+- **October 2017**: Moeda provides funding for its first production of farmers in Brazil.
 
+- **October 2017**: The CEO presents Moeda to Nobel Prize winner Muhammad Yunus,”the father of microcredit"and founder of Grameen Bank.  
 
-## What’s Moeda working on now?
+- **November 2017**: The CEO validates the business model with UN leaders, lawmakers and academics at the Geneva Graduate Institute.
 
-First of all: the Moeda Seeds app!
+- **November 2017**: Moeda launches at the UN COP23 Initiative in Blockchain on Climate Change to monitor and measure the project's commitments.
 
-The first Seed Projects from Moeda were all officially financed. We'll keep
-everyone updated on their progress as our local staff guides them on
-scaling their projects. Through this initial effort, Moeda plans to invest
-US$ 10 million in more than 100,000 loans to vetted entrepreneurs in 2019.
+- **November 2017**: Moeda launches its project in China at the Microsoft Global Conference on blockchain and its sector.
 
-Follow us on these social networking site to keep up to date: Facebook,
-Twitter, Instagram and LinkedIn.
+- **November 2017**: The CEO launches Moeda at the International Cooperative Alliance Conference (ICA); first crypto-currency for world cooperatives.
 
+- **January 2018**: Moeda announces funding for its first round of Seed Projects in rural Brazil.
 
-## What are some of the obstacles that Moeda removes for small businesses?
+- **January 2018**: Moeda launches its project in Europe at the World Economic Forum in Davos.
 
-Excessive fees, no access to financial credit and high interest
-rates are some of the hurdles that the Moeda platform endeavors to reduce.
-The Moeda Seeds application will facilitate payments and lending among
-peers and was specifically designed to empower underbanked entrepreneurs
-with little or no direct relationships with banks and whose businesses
-comply with the United Nations Sustainable Development Goals.
+- **February 2018**: System architecture implemented; finalized administrative and compliance systems; Seed Projects can now be submitted for analysis, monitoring and evaluation.
 
+- **April 2018**: Taynaah Reis talks about Moeda at the TEDx in a lecture entitled “Blockchain - The Trust Revolution.”
+
+- **June 2018**: The CRESOL bank revolving fund is structured and ready to offer investments to 18 initial Seed Projects.
+
+- **June 2018**: Audit Log of Moeda Blockchain Projects implemented in the IBM hyperledger fabric composer. Seed Projects can now be monitored with full transparency.
+
+- **July 2018**: Implemented Moeda’s fiat pegged token (MDABRL) to be used in the Moeda ecosystem.
+August 2018: Digital Account and Wallet made available to the public.
+
+- **September 2018**: A feature for payments between people (P2P) made available to the public.
+
+To find out everything that's going on, follow Moeda on social media: [Facebook](https://www.facebook.com/moedaseeds/), [Twitter](https://twitter.com/moedaseeds), [Instagram](https://www.instagram.com/moedaseeds/) and [LinkedIn](https://www.linkedin.com/company/moeda).
+
+## What are the obstacles that Moeda overcomes for its entrepreneurs?
+
+We eliminate common obstacles that often don't make it feasible for ventures to take risks: extremely high rates, unfriendly terms and payment conditions, bureaucracy, brokers. We also facilitate access to technical support, business, the market and sustainability to ensure the success of Seed Project and to help the local community's autonomy. The Moeda Seeds App will also facilitate payments and loans among peer and empower underbanked entrepreneurs with impact projects that comply with the UN Sustainable Development Goals.
 
 ## What does underbanked mean?
 
-Underbanked, or sometimes used interchangeably as unbanked, is a
-term used in reference to the 38% of the world population that has little
-or no access to regulated banking services and financial credit. Recent
-estimates by the World Bank's indicate that there are around 2 billion
-underbanked people throughout the globe.
-
-Underbanked populations suffer from a lack of credit or access to
-commercial loans. This lack of financial representation places severe
-limits on their possibilities for economic growth. Burdened by
-unpredictable interest rates, predatory lending, and an inability to
-establish credit, local underbanked entrepreneurs often find themselves
-unable to access the capital needed to expand their business and establish
-significant financial security.
+"Underbanked" or "unbanked" is a term used to refer to the 38% of the world's population that has little or no access to traditional regulated banking services and financial credit. According to the latest World Bank estimates, there are about 2 billion unbanked people throughout the world. They suffer from a lack of access to credit or business loans, severely limiting their opportunities for economic growth. Pressured by unpredictable interest rates, predatory lending and an inability to establish credit, local underbanked entrepreneurs are often not able to access the capital needed to expand their business and establish meaningful financial security.
 
 
-## What is the purpose of Moeda Seeds app?
+## What’s the purpose of Moeda's mobile app?
 
-Moeda's first application is intended to be a tool for those
-investing in the Seeds Projects and for financing entrepreneurs, along with
-providing the Moeda team with valuable feedback to develop and improve
-future endeavors.
+The Moeda Seeds App will allow investors and entrepreneurs to conduct their operations:
+- instant end-to-end payments and more accessibility using digital tokens, avoiding limits and government fees on all transactions that take place within Moeda’s payment ecosystem
 
-Specifically, Moeda Seeds will:
-- Allow users to create credit worthiness (often for the first time) and take charge of their own financial data using a digital identity tied to an immutable blockchain ledger.
-- Allow for instant and easier peer-to-peer payments using digital tokens, avoiding limits and fees from the government on all transactions that take place within the Moeda's payment ecosystem.
-- Provide a transparent record of financial activity by mirroring all transactions made through the application in the blockchain.
-- Encourage knowledge sharing, new impact models and mutual support by providing tools that explore the details of seed projects financed by Moeda.
+- offer a transparent record of financial activities that reflects all transactions made through the application on blockchain
 
+- share knowledge, new impact models and mutual support, supplying tools for exploring the details of the Seed Project
 
-## Is Moeda just an app?
+- create a system where users are classified by merit for credit in addition to becoming the owners of their own financial data, using a digital identity linked to an immutable ledger in blockchain.
 
-Moeda is a lot more than just a currency or an app: It's a whole
-ecosystem based on identity, two different token structures (MDA and
-MDA-BRL), and tracking project accountability. Our systems' architecture
-contains a hybrid format that combines a variety of technologies. The TA
-(Technical Assistance) system is able to support technical assistants in
-their efforts to analyze, evaluate risks, select projects and track
-investments and their outcomes. Results from each step are stored in our
-audited blockchain, which connects to the MDA-BRL smart contract token to
-track all spending in the ecosystem. These results create attributes in
-the user's Blockchain ID. Access to investments can only be done if you
-have the MDA token. To better understand the entire structure of our
-architecture, [click here.](/whitepaper)
+On top of that, it will also be used as a source of information for our perfect systems team, developing new products and services and helping to better understand how Moeda can aid everyone involved.
 
+## Is Moeda just an App?
+
+Moeda is more than a currency or an application: it's a platform that uses technology to link investors with impact entrepreneurs in a transparent, fair and flexible manner. The Moeda Seeds App is just one of the tools for an entire ecosystem based on identity, two structures of digital token (MDA and MDABRL) and keeping track of project accountability. The architecture of our systems possesses a hybrid format that combines different technologies. The Moeda Seed Program is capable of lending support to technical assistants so they can analyse, evaluate risks, select projects and following up on investments and results. The results of each step are stored in our audited blockchain, which connects with the MDABRL smart contract token to keep track of all spending in the ecosystem. All results create attributes in the user’s Blockchain ID. You can only access investments if you have an MDA token.
 
 ## Why does Moeda use blockchain technology?
 
-Blockchain technology facilitates the exchange of funds without
-requiring an intermediary. It also allows for transparent interactions
-between parties through a reliable and secure network that distributes
-certified and auditable access to data, thus simplifying existing
-processes, reducing costs and increasing capital efficiency.
+Blockchain technology facilitates the exchange of values without the need for intermediaries or brokers, allowing the parties to interact transparently through a reliable and secure network that delivers certified and auditable data access, streamlining existing processes, reducing costs, and increasing capital efficiency. Unlike traditional means of banking and currency exchange, blockchain technology is specially suited for impact investments. More specifically, using blockchain technology, the Moeda platform provides:
 
-Unlike traditional means of banking and exchange, blockchain technology is
-especially suited for impact investments. Specifically, through the use of
-blockchain technology, the Moeda platform provides:
-- Transparent currency transactions and the progress of investments
-- A sovereign digital identity for users of the platform
-- Quicker transfer of loan proceeds and greater accessibility through the use of digital tokens
-- Lower rates than those typically associated with payments and transfers done through traditional financial institutions
+- transparency for currency transactions and investment progress
 
+- sovereign digital identity for users of the platform
 
-## How many tokens were created? And how many are now in circulation?
+- quicker transfer of loan funds and increased accessibility through the use of digital tokens
 
-**20,000,000** tokens were created.<br>
-**19,628,888** tokens are currently in circulation.
+- lower rates than those typically associated with payments and remittances through traditional channels of financial institutions.
 
+## How many tokens have been created and how many are in circulation?
+
+20 million tokens (MDAs) were created,and 19,628,888 are in circulation.
 
 ## Where can I purchase MDA?
 
-As of now, MDA is no longer being created. MDA can be bought
-from an existing holder. Moeda does not support or facilitate any MDA
-trading or listing MDA on any cryptocurrency exchanges.
+MDAs are a crucial part of you being able to participate in the investments from our platform. They are no longer being created at this point, and you will need to purchase them from an existing holder. To do this, contact an exchange (cryptocurrency exchange) to check on the values, conditions, regulatory requirements and make a trade. The following exchanges deal in our token: [Binance](https://www.binance.com/), [LBank](https://www.lbank.info/), [BKex](https://www.bkex.com/), [EtherDelta](https://etherdelta.com/), [Allcoin](https://www.allcoin.com/), [Coinbene](https://www.coinbene.com/).
 
-Participation in activities involving social impact investments on Moeda's
-platform requires MDA. Those wishing to acquire MDA to participate in the
-platform should contact a crypto-currency exchange to find out if it can be
-bought at that exchange and determine the regulatory requirements to
-participate.
+## Am I able to invest in Moeda projects without the MDA, using my money in Brazilian Reais (R$)?
 
-
-## Can I invest in Moeda projects without MDA by just using my money in Dollars ($)?
-
-To access Moeda's ecosystem (investments, payments, products)
-from outside of Brazil, MDA is required. Without MDA, you can only register
-for a Moeda account if you are a Brazilian holding a valid Brazilian
-Taxpayer Identification Number.
-
+If you are Brazilian and have a valid CPF number, you can register for an account with Moeda and use regular currency (R$). To access Moeda's ecosystem outside Brazil, our cryptocurrency (MDA) is required.
 
 ## What's the difference between Moeda and other cryptocurrencies?
 
-Although one of the innovative aspects of Moeda's business model
-is its cryptocurrency, Moeda is decisively different from most of its peers
-in this market. It focuses on the catalyst of digital currency - the
-blockchain - and on this technology's plethora of uses to propel
-investments for underbanked entrepreneurs.
+Moeda's focus isn’t only on cryptocurrencies. We recognize its innovative aspect in our business model as a tool that offers flexibility and facilitates an investment, but our focus is on the blockchain. This technology has a plethora of uses to boost investment in impact entrepreneurs, especially those who are underbanked. We provide services, in certain respects, that are similar to those of a social investment platform. We're contributing an asset for the purpose of financing impact entrepreneurs. As such, Moeda is no longer a digital currency — it only uses this feature to streamline and facilitate the investment of people around the world in our Seed Projects.
 
-In certain respects, we provide similar services to those of a social
-investment platform - contributing an asset for the purpose of financing
-entrepreneurs with considerable and sustainable potential. Appropriate
-structuring, advisors located near entrepreneurs, and the launch of
-the Moeda Seeds application will result in a significant upward
-appreciation as the value proposition is made available to even more people.
+## Why does Moeda focus on humanitarian causes? Doesn’t this affect investments?
 
-But to remain true to our vision, Moeda's growth plan is necessarily
-adaptable in order to provide the time, qualitative learning and
-flexibility necessary for growth centered on people and maximizing the
-value of investors and those entrepreneurs aided through our financing.
+In the new reality of the global economy, we acknowledge that sustainability is not only a humanitarian cause, but also a factor that should be part of a company’s business plans, no matter their size or where they’re from. To support the UN Sustainable Development Goals and contribute to a more balanced reality has also proven important for investments in long-term thinking. Supporting impact projects that are already arising with the UN SDGs in their DNA is a major advantage, given that these are projects that will not be at a loss to meet this new imperative - an imperative that is already expanding the thinking surrounding business sustainability and investing in more advanced technologies. What’s more, countless studies have shown that it promotes a social and solidarity economy that bolsters local prosperity and improves purchase conditions for everyone. Investing in sustainability is an advantage in this nascent market.
 
+## How can I find out more about the technical aspects of Moeda?
 
-## Why does Moeda aid humanitarian causes? Doesn't this affect investments?
-
-Moeda is more than a currency, it's an ecosystem. The fact that
-we have proved the use of our technology both in the financial and
-humanitarian areas is a great opportunity for success. We're not just an
-application, we're in the process of building a complex system and using
-blockchain in different ways: identity, two structures of the token
-(MDA and MDA-BRL) and tracking project accountability.
-
-
-## How can I find out more about Moeda's technical elements?
-
-Moeda has a detailed report that will be available soon.
+Moeda has a report (Whitepaper) with more details, which will soon be available. You can also follow our news and company updates on [#Moeda.TV Channel](https://www.youtube.com/channel/UCYKNfrimYV-goJP2Du-k7Mw), on youtube.
