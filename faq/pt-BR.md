@@ -26,45 +26,27 @@ A Moeda oferece transparência sem precedentes tanto para os investidores quanto
 ## O que a Moeda tem feito desde seu lançamento?
 
 Desde o seu lançamento, em abril de 2017, tem se organizado e lançado projetos-piloto que vão servir de base para nossa expansão, além de se preparar para lançar o Moeda Seeds App. A partir de dezembro de 2018, novos investimentos chegarão ao site e ao app, enquanto centenas de novos Projetos Semente vão sendo preparados para investimento. Em paralelo, continuamos participando de eventos públicos, ações junto ao Governo e a empreendedores, além de incrementar nossa equipe e parcerias. Aqui estão alguns dos principais marcos da equipe até agora:
-Junho de 2017: Moeda abre holding no Uruguai e se torna a primeira empresa de blockchain numa Zona de Livre Comércio
-
+- **Junho de 2017**: Moeda abre holding no Uruguai e se torna a primeira empresa de blockchain numa Zona de Livre Comércio
 - **Agosto de 2017**: ICO da Moeda arrecada US$ 20 milhões em criptomoedas (BTC/ETH). No total, 20.000.000 tokens de MDA foram emitidos.
-
 - **Setembro de 2017**: Moeda emite tokens (MDA) para investidores e agentes.
-
 - **Setembro 2017**: CEO da Moeda junta-se à Comissão Especial Parlamentar sobre regulamentação de moedas virtuais para definir o futuro das criptomoedas no Brasil.
-
 - **Setembro 2017**: Banco Central do Brasil reconhece nosso modelo de negócios em transmissão nacional ao vivo.
-
 - **Setembro 2017**: Token da Moeda entra na lista da Binance.
-
 - **Outubro 2017**: CEO apresenta Moeda na Assembléia Geral das Nações Unidas, Zona de Impacto ODSs.
-
 - **Outubro 2017**: Moeda financia sua primeira produção de agricultores no Brasil.
-
 - **Outubro 2017**: CEO apresenta Moeda ao Prêmio Nobel Muhammad Yunus, “pai do microcrédito” e fundador do Banco Grameen.
-
 - **Novembro 2017**: CEO valida modelo de negócios junto a líderes da ONU, legisladores e membros da academia no Instituto de Pós-Graduação de Genebra.
-
 - **Novembro 2017**: Moeda lança na ONU COP23 a Iniciativa em Blockchain sobre Mudanças Climáticas para monitorar e mensurar os compromissos do projeto.
-
 - **Novembro 2017**: Moeda lança seu projeto na China, na Conferência Global da Microsoft sobre blockchain e seu setor.
-
 - **Novembro 2017**: CEO lança Moeda na Conferência da Aliança Cooperativa Internacional (ICA); primeira cripto-moeda para cooperativas do mundo.
 Janeiro de 2018: Moeda anuncia o financiamento de sua primeira rodada de Projetos Semente no Brasil rural.
-
 - **Janeiro 2018**: Moeda lança seu projeto na Europa no Fórum Econômico Mundial em Davos.
-
 - **Fevereiro 2018**: Arquitetura de sistema implementada; sistemas administrativo e de compliance finalizados; Projetos Sementes já podem ser submetidos para análise, monitorados e avaliados.
-
 - **Abril 2018**: Taynaah Reis fala sobre Moeda no TEDx na palestra intitulada “Blockchain – A Revolução da Confiança”.
 Junho 2018: Fundo rotativo do banco CRESOL é estruturado e fica pronto para oferecer investimentos a 18 Projetos Semente iniciais.
-
 - **Junho 2018**: Registro de auditoria dos Projetos de Blockchain Moeda implementado no hyperledger fabric composer IBM. Projetos Semente podem agora ser monitorados com total transparência.
-
 - **Julho 2018**: Implementado token Moeda atrelado a moeda fiduciária (MDABRL) para ser utilizado no ecossistema Moeda.
 Agosto 2018: Conta Digital e Carteira disponibilizadas ao público.
-
 - **Setembro 2018**: Função para pagamentos entre pessoas (P2P) disponível para o público.
 
 Para saber de tudo o que está acontecendo, acompanhe a Moeda nas redes sociais: [Facebook](https://www.facebook.com/moedaseeds/), [Twitter](https://twitter.com/moedaseeds), [Instagram](https://www.instagram.com/moedaseeds/) e [LinkedIn](https://www.linkedin.com/company/moeda).

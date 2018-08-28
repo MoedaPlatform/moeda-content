@@ -27,44 +27,26 @@ Moeda offers unprecedented transparency for both investors and those who benefit
 
 Since its launch in April 2017, pilot projects have been organized and launched that will form the basis for our expansion, along with the preparation for releasing the Moeda Seeds App. As of December 2018, new investments will arrive on the site and the app, while hundreds of new Seed Projects are being prepared for investing. At the same time, we will continue participating in public events, government activities and entrepreneurs, as well as increase our team and partnerships. Here are some of the team's major milestones thus far:
 - **June 2017**: Moeda opens holding in Uruguay and becomes the first blockchain company in a Free Trade Zone
-
 - **August 2017**: Moeda's ICO (Initial Coin Offering) raises US$ 20 million in crypto-currencies (BTC/ETH). A total of 20 million MDA tokens were issued.
-
 - **September 2017**: Moeda issues tokens (MDA) for investors and agents.
-
 - **September 2017**: Moeda’s CEO joins the Parliamentary Special Committee on the legislation of virtual currency to define the future of crypto-currency in Brazil.
-
 - **September 2017**: The Brazilian Central Bank acknowledges our business model on a live national broadcast.
 September 2017 The Moeda Token lands on the Binance list.
-
 - **October 2017**: The CEO presents Moeda at the United Nations General Assembly, SDG Impact Zones.
 - **October 2017**: Moeda provides funding for its first production of farmers in Brazil.
-
 - **October 2017**: The CEO presents Moeda to Nobel Prize winner Muhammad Yunus,”the father of microcredit"and founder of Grameen Bank.  
-
 - **November 2017**: The CEO validates the business model with UN leaders, lawmakers and academics at the Geneva Graduate Institute.
-
 - **November 2017**: Moeda launches at the UN COP23 Initiative in Blockchain on Climate Change to monitor and measure the project's commitments.
-
 - **November 2017**: Moeda launches its project in China at the Microsoft Global Conference on blockchain and its sector.
-
 - **November 2017**: The CEO launches Moeda at the International Cooperative Alliance Conference (ICA); first crypto-currency for world cooperatives.
-
 - **January 2018**: Moeda announces funding for its first round of Seed Projects in rural Brazil.
-
 - **January 2018**: Moeda launches its project in Europe at the World Economic Forum in Davos.
-
 - **February 2018**: System architecture implemented; finalized administrative and compliance systems; Seed Projects can now be submitted for analysis, monitoring and evaluation.
-
 - **April 2018**: Taynaah Reis talks about Moeda at the TEDx in a lecture entitled “Blockchain - The Trust Revolution.”
-
 - **June 2018**: The CRESOL bank revolving fund is structured and ready to offer investments to 18 initial Seed Projects.
-
 - **June 2018**: Audit Log of Moeda Blockchain Projects implemented in the IBM hyperledger fabric composer. Seed Projects can now be monitored with full transparency.
-
 - **July 2018**: Implemented Moeda’s fiat pegged token (MDABRL) to be used in the Moeda ecosystem.
 August 2018: Digital Account and Wallet made available to the public.
-
 - **September 2018**: A feature for payments between people (P2P) made available to the public.
 
 To find out everything that's going on, follow Moeda on social media: [Facebook](https://www.facebook.com/moedaseeds/), [Twitter](https://twitter.com/moedaseeds), [Instagram](https://www.instagram.com/moedaseeds/) and [LinkedIn](https://www.linkedin.com/company/moeda).
@@ -82,11 +64,8 @@ We eliminate common obstacles that often don't make it feasible for ventures to 
 
 The Moeda Seeds App will allow investors and entrepreneurs to conduct their operations:
 - instant end-to-end payments and more accessibility using digital tokens, avoiding limits and government fees on all transactions that take place within Moeda’s payment ecosystem
-
 - offer a transparent record of financial activities that reflects all transactions made through the application on blockchain
-
 - share knowledge, new impact models and mutual support, supplying tools for exploring the details of the Seed Project
-
 - create a system where users are classified by merit for credit in addition to becoming the owners of their own financial data, using a digital identity linked to an immutable ledger in blockchain.
 
 On top of that, it will also be used as a source of information for our perfect systems team, developing new products and services and helping to better understand how Moeda can aid everyone involved.
@@ -100,11 +79,8 @@ Moeda is more than a currency or an application: it's a platform that uses techn
 Blockchain technology facilitates the exchange of values without the need for intermediaries or brokers, allowing the parties to interact transparently through a reliable and secure network that delivers certified and auditable data access, streamlining existing processes, reducing costs, and increasing capital efficiency. Unlike traditional means of banking and currency exchange, blockchain technology is specially suited for impact investments. More specifically, using blockchain technology, the Moeda platform provides:
 
 - transparency for currency transactions and investment progress
-
 - sovereign digital identity for users of the platform
-
 - quicker transfer of loan funds and increased accessibility through the use of digital tokens
-
 - lower rates than those typically associated with payments and remittances through traditional channels of financial institutions.
 
 ## How many tokens have been created and how many are in circulation?
