@@ -1,6 +1,5 @@
 # Perguntas Frequentes
 
-
 ## O que é Moeda?
 
 A Moeda foi lançada em 2017 em um hackathon das Nações Unidas com o propósito de abordar os 17 Objetivos de Desenvolvimento Sustentável da ONU. Nós selecionamos Projetos Semente e facilitamos acesso a financiamento a empreendedores com projetos de impacto que têm acesso dificultado ao crédito pelo sistema bancário tradicional. Com isso, eles podem crescer e trazer desenvolvimento às suas comunidades. Por meio da tecnologia blockchain e de nossos tokens digitais proprietários (MDA, MDABRL), pessoas do mundo todo podem investir com agilidade e transparência nos empreendimentos, participando do crescimento sustentável. Todo mundo ganha.
@@ -17,7 +16,7 @@ A Moeda se inspirou na ideia de que a tecnologia blockchain traz mais confiança
 
 ## Onde fica a Moeda?
 
-A Moeda é uma empresa global com sedes em Nova York, nos Estados Unidos, e em Brasília, capital brasileira, além de presença na China.
+Moeda é uma empresa multinacional com sedes em Brasília, Brasil e em Montevideo no Uruguay.
 
 ## Como a Moeda aprimora o modelo tradicional de investimento de impacto de microempréstimos?
 
@@ -26,6 +25,7 @@ A Moeda oferece transparência sem precedentes tanto para os investidores quanto
 ## O que a Moeda tem feito desde seu lançamento?
 
 Desde o seu lançamento, em abril de 2017, tem se organizado e lançado projetos-piloto que vão servir de base para nossa expansão, além de se preparar para lançar o Moeda Seeds App. A partir de dezembro de 2018, novos investimentos chegarão ao site e ao app, enquanto centenas de novos Projetos Semente vão sendo preparados para investimento. Em paralelo, continuamos participando de eventos públicos, ações junto ao Governo e a empreendedores, além de incrementar nossa equipe e parcerias. Aqui estão alguns dos principais marcos da equipe até agora:
+
 - **Junho de 2017**: Moeda abre holding no Uruguai e se torna a primeira empresa de blockchain numa Zona de Livre Comércio
 - **Agosto de 2017**: ICO da Moeda arrecada US$ 20 milhões em criptomoedas (BTC/ETH). No total, 20.000.000 tokens de MDA foram emitidos.
 - **Setembro de 2017**: Moeda emite tokens (MDA) para investidores e agentes.
@@ -39,18 +39,17 @@ Desde o seu lançamento, em abril de 2017, tem se organizado e lançado projetos
 - **Novembro 2017**: Moeda lança na ONU COP23 a Iniciativa em Blockchain sobre Mudanças Climáticas para monitorar e mensurar os compromissos do projeto.
 - **Novembro 2017**: Moeda lança seu projeto na China, na Conferência Global da Microsoft sobre blockchain e seu setor.
 - **Novembro 2017**: CEO lança Moeda na Conferência da Aliança Cooperativa Internacional (ICA); primeira cripto-moeda para cooperativas do mundo.
-Janeiro de 2018: Moeda anuncia o financiamento de sua primeira rodada de Projetos Semente no Brasil rural.
+  Janeiro de 2018: Moeda anuncia o financiamento de sua primeira rodada de Projetos Semente no Brasil rural.
 - **Janeiro 2018**: Moeda lança seu projeto na Europa no Fórum Econômico Mundial em Davos.
 - **Fevereiro 2018**: Arquitetura de sistema implementada; sistemas administrativo e de compliance finalizados; Projetos Sementes já podem ser submetidos para análise, monitorados e avaliados.
 - **Abril 2018**: Taynaah Reis fala sobre Moeda no TEDx na palestra intitulada “Blockchain – A Revolução da Confiança”.
-Junho 2018: Fundo rotativo do banco CRESOL é estruturado e fica pronto para oferecer investimentos a 18 Projetos Semente iniciais.
+  Junho 2018: Fundo rotativo do banco CRESOL é estruturado e fica pronto para oferecer investimentos a 18 Projetos Semente iniciais.
 - **Junho 2018**: Registro de auditoria dos Projetos de Blockchain Moeda implementado no hyperledger fabric composer IBM. Projetos Semente podem agora ser monitorados com total transparência.
 - **Julho 2018**: Implementado token Moeda atrelado a moeda fiduciária (MDABRL) para ser utilizado no ecossistema Moeda.
-Agosto 2018: Conta Digital e Carteira disponibilizadas ao público.
+  Agosto 2018: Conta Digital e Carteira disponibilizadas ao público.
 - **Setembro 2018**: Função para pagamentos entre pessoas (P2P) disponível para o público.
 
 Para saber de tudo o que está acontecendo, acompanhe a Moeda nas redes sociais: [Facebook](https://www.facebook.com/moedaseeds/), [Twitter](https://twitter.com/moedaseeds), [Instagram](https://www.instagram.com/moedaseeds/) e [LinkedIn](https://www.linkedin.com/company/moeda).
-
 
 ## Quais os obstáculos que a Moeda soluciona para seus empreendedores?
 
@@ -59,7 +58,6 @@ Nós eliminamos obstáculos comuns que muitas vezes inviabilizam os empreendimen
 ## O que significa não-bancarizado?
 
 "Não bancarizado" ou "sem banco" é um termo usado para se referir aos 38% da população mundial que tem pouco ou nenhum acesso a serviços bancários tradicionais regulados e crédito financeiro. De acordo com as estimativas mais recentes do Banco Mundial existem cerca de 2 bilhões de pessoas não-bancarizadas em todo o mundo. Elas sofrem com a falta de acesso a crédito ou a empréstimos comerciais, o que limita severamente as possibilidades de crescimento econômico. Pressionados por taxas de juros imprevisíveis, empréstimos predatórios e uma incapacidade de estabelecer crédito, os empreendedores locais não-bancarizados muitas vezes não conseguem acessar o capital necessário para expandir seus negócios e estabelecer uma segurança financeira significativa.
-
 
 ## Qual o propósito do aplicativo móvel da Moeda?
 
@@ -91,10 +89,6 @@ Foram criados 20.000.000 de tokens, os MDAs, sendo que 19.628.888 estão em circ
 
 As MDAs são essenciais para você poder participar dos investimentos da nossa plataforma. Nesse momento, elas não estão mais sendo criadas - é preciso adquiri-las de um titular existente. Para isso, entre em contato com uma exchange (bolsa de criptomoedas) para verificar os valores, condições, requisitos regulatórios e realizar sua troca. Aqui as exchanges que comercializam nosso token: [Binance](https://www.binance.com/), [LBank](https://www.lbank.info/), [BKex](https://www.bkex.com/), [EtherDelta](https://etherdelta.com/), [Allcoin](https://www.allcoin.com/), [Coinbene](https://www.coinbene.com/).
 
-## Eu posso investir nos projetos da Moeda sem a MDA, usando meu dinheiro em Reais (R$)?
-
-Se você for brasileiro e possuir um CPF válido, pode registrar uma conta na Moeda e usar seus Reais. Para acessar o ecossistema da Moeda de fora do Brasil, é necessário ter nossa criptomoeda, a MDA.
-
 ## Qual a diferença entre a Moeda e outras criptomoedas?
 
 O foco da Moeda não é apenas em criptomoedas. Nós entendemos seu aspecto inovador em nosso modelo de negócios como ferramenta que traz agilidade e facilita o investimento, mas nosso foco está no blockchain. Essa tecnologia tem uma infinidade de usos para impulsionar o investimento em empreendedores de impacto, principalmente nos não-bancarizados. Em certos aspectos, fornecemos serviços semelhantes aos de uma plataforma de investimento social, na medida em que estamos contribuindo com um ativo para fins de financiamento de empreendedores de impacto. Assim, a Moeda não é mais uma moeda digital - ela apenas usa esse recurso para agilizar e viabilizar o investimento de pessoas do mundo todo em nossos Projetos Semente.
@@ -105,4 +99,4 @@ Na nova realidade da economia global, percebemos que a sustentabilidade não é 
 
 ## Como posso conhecer mais sobre os aspectos técnicos da Moeda?
 
-Moeda tem um relatório com mais detalhes (*Whitepaper*) que será disponibilizado em breve. Você também pode acompanhar nossas notícias e updates internos no [Canal #Moeda.TV](https://www.youtube.com/channel/UCYKNfrimYV-goJP2Du-k7Mw), no youtube.
+Moeda tem um relatório com mais detalhes (_Whitepaper_) que será disponibilizado em breve. Você também pode acompanhar nossas notícias e updates internos no [Canal #Moeda.TV](https://www.youtube.com/channel/UCYKNfrimYV-goJP2Du-k7Mw), no youtube.

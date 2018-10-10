@@ -1,6 +1,5 @@
 # Frequently Asked Questions
 
-
 ## What is Moeda?
 
 Moeda was launched in 2017 at a United Nations “hackathon” in order to address the 17 UN Sustainable Development Goals. We selected the Seed Projects and facilitate access to financing for entrepreneurs with impact projects who have traditionally found it difficult to access credit through the traditional banking system. They can thus grow and allow their communities to develop. Through blockchain technology and our proprietary digital tokens (MDA, MDABRL), people around the world can promptly and transparently invest in the projects, all the while participating in sustainable growth. Everyone wins.
@@ -17,7 +16,7 @@ Moeda was inspired by the idea that blockchain technology offers more confidence
 
 ## Where is Moeda?
 
-Moeda is a global company with headquarters in New York, in the United States and in Brasilia, Brazil's capital, along with a presence in China.
+Moeda is a global company with headquarters in Brasilia, Brazil's capital, and Montevideo, Uruguay.
 
 ## How does Moeda improve the traditional model of impact investments using micro-lending?
 
@@ -26,15 +25,16 @@ Moeda offers unprecedented transparency for both investors and those who benefit
 ## What has Moeda done since its launch?
 
 Since its launch in April 2017, pilot projects have been organized and launched that will form the basis for our expansion, along with the preparation for releasing the Moeda Seeds App. As of December 2018, new investments will arrive on the site and the app, while hundreds of new Seed Projects are being prepared for investing. At the same time, we will continue participating in public events, government activities and entrepreneurs, as well as increase our team and partnerships. Here are some of the team's major milestones thus far:
+
 - **June 2017**: Moeda opens holding in Uruguay and becomes the first blockchain company in a Free Trade Zone
 - **August 2017**: Moeda's ICO (Initial Coin Offering) raises US$ 20 million in crypto-currencies (BTC/ETH). A total of 20 million MDA tokens were issued.
 - **September 2017**: Moeda issues tokens (MDA) for investors and agents.
 - **September 2017**: Moeda’s CEO joins the Parliamentary Special Committee on the legislation of virtual currency to define the future of crypto-currency in Brazil.
 - **September 2017**: The Brazilian Central Bank acknowledges our business model on a live national broadcast.
-September 2017 The Moeda Token lands on the Binance list.
+  September 2017 The Moeda Token lands on the Binance list.
 - **October 2017**: The CEO presents Moeda at the United Nations General Assembly, SDG Impact Zones.
 - **October 2017**: Moeda provides funding for its first production of farmers in Brazil.
-- **October 2017**: The CEO presents Moeda to Nobel Prize winner Muhammad Yunus,”the father of microcredit"and founder of Grameen Bank.  
+- **October 2017**: The CEO presents Moeda to Nobel Prize winner Muhammad Yunus,”the father of microcredit"and founder of Grameen Bank.
 - **November 2017**: The CEO validates the business model with UN leaders, lawmakers and academics at the Geneva Graduate Institute.
 - **November 2017**: Moeda launches at the UN COP23 Initiative in Blockchain on Climate Change to monitor and measure the project's commitments.
 - **November 2017**: Moeda launches its project in China at the Microsoft Global Conference on blockchain and its sector.
@@ -46,7 +46,7 @@ September 2017 The Moeda Token lands on the Binance list.
 - **June 2018**: The CRESOL bank revolving fund is structured and ready to offer investments to 18 initial Seed Projects.
 - **June 2018**: Audit Log of Moeda Blockchain Projects implemented in the IBM hyperledger fabric composer. Seed Projects can now be monitored with full transparency.
 - **July 2018**: Implemented Moeda’s fiat pegged token (MDABRL) to be used in the Moeda ecosystem.
-August 2018: Digital Account and Wallet made available to the public.
+  August 2018: Digital Account and Wallet made available to the public.
 - **September 2018**: A feature for payments between people (P2P) made available to the public.
 
 To find out everything that's going on, follow Moeda on social media: [Facebook](https://www.facebook.com/moedaseeds/), [Twitter](https://twitter.com/moedaseeds), [Instagram](https://www.instagram.com/moedaseeds/) and [LinkedIn](https://www.linkedin.com/company/moeda).
@@ -59,10 +59,10 @@ We eliminate common obstacles that often don't make it feasible for ventures to 
 
 "Underbanked" or "unbanked" is a term used to refer to the 38% of the world's population that has little or no access to traditional regulated banking services and financial credit. According to the latest World Bank estimates, there are about 2 billion unbanked people throughout the world. They suffer from a lack of access to credit or business loans, severely limiting their opportunities for economic growth. Pressured by unpredictable interest rates, predatory lending and an inability to establish credit, local underbanked entrepreneurs are often not able to access the capital needed to expand their business and establish meaningful financial security.
 
-
 ## What’s the purpose of Moeda's mobile app?
 
 The Moeda Seeds App will allow investors and entrepreneurs to conduct their operations:
+
 - instant end-to-end payments and more accessibility using digital tokens, avoiding limits and government fees on all transactions that take place within Moeda’s payment ecosystem
 - offer a transparent record of financial activities that reflects all transactions made through the application on blockchain
 - share knowledge, new impact models and mutual support, supplying tools for exploring the details of the Seed Project
@@ -90,10 +90,6 @@ Blockchain technology facilitates the exchange of values without the need for in
 ## Where can I purchase MDA?
 
 MDAs are a crucial part of you being able to participate in the investments from our platform. They are no longer being created at this point, and you will need to purchase them from an existing holder. To do this, contact an exchange (cryptocurrency exchange) to check on the values, conditions, regulatory requirements and make a trade. The following exchanges deal in our token: [Binance](https://www.binance.com/), [LBank](https://www.lbank.info/), [BKex](https://www.bkex.com/), [EtherDelta](https://etherdelta.com/), [Allcoin](https://www.allcoin.com/), [Coinbene](https://www.coinbene.com/).
-
-## Am I able to invest in Moeda projects without the MDA, using my money in Brazilian Reais (R$)?
-
-If you are Brazilian and have a valid CPF number, you can register for an account with Moeda and use regular currency (R$). To access Moeda's ecosystem outside Brazil, our cryptocurrency (MDA) is required.
 
 ## What's the difference between Moeda and other cryptocurrencies?
 
